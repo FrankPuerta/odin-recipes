@@ -1,1 +1,1 @@
-A website created using HTMl that displays several recipes
+A website created using HTML that displays several recipes
