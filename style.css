@@ -1,0 +1,21 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.link {
+    font-weight: 500;
+}
+
+h1 {
+    color: rgb(249, 249, 249);
+    background-color: black;
+    text-align: center;
+}
+
+ul, ol {
+    background-color: bisque;
+}
+
+p {
+    background-color: beige;
+}
